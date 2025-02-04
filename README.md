@@ -81,7 +81,7 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> https://excel-developer.github.io/first-project/
 
 - [Live Demo Link](https://excel-developer.github.io/first-project/)
 
