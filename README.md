@@ -63,11 +63,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My First Website] <a name="about-project"></a>
+# 📖 My First Website <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[My First Website]** is a website built using HTML
+**My First Website** is a website built using HTML
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -81,9 +81,9 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> https://excel-developer.github.io/first-project/
+https://excel-developer.github.io/first-project/
 
-- [Live Demo Link](https://excel-developer.github.io/first-project/)
+- [Live Demo Link]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +108,7 @@ For more information on the importance of a professional README for your reposit
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add colours]**
-- [ ] **[Add graphic designs]**
+- [ ] **[Add graphics]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
